@@ -8,7 +8,6 @@ _pip install Scrapy_
 for installation guide please visit: https://doc.scrapy.org/en/latest/intro/install.html
 after that download the folder of Paragraph_Extracter.
 In CMD: navigate to the Dirctory of Paragraph_Extacter.
-it should look like: */*/Paragraph_Extracter>
 after that type in this command to run the crawler:
 _scrapy crawl paragraphs -a url="<url_of_the_site_you_want_to_crawl"_
 the output will be stored in the same directory in json format
