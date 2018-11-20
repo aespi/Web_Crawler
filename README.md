@@ -14,4 +14,4 @@ _scrapy crawl paragraphs -a url="<url_of_the_site_you_want_to_crawl"_
 the output will be stored in the same directory in json format
 
 
-^^^You can change the Seperator for Paragraphs in Json File from /Paragraph_extracter/spider/paragraphs.py file and change the *sep* variable to any Seperator you want.
+^^^You can change the Seperator for Paragraphs in Json File from /Paragraph_extracter/spider/paragraphs.py file and change the *sep* variable to any Seperator you want.^^^
